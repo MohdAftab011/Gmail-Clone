@@ -16,4 +16,4 @@ Below is the link for the Gmail website.
 [Gmail Website](https://mail.google.com/)
 
 ##Deployed Project Link
-url(gmail-clone-chi-topaz.vercel.app)
+(https://gmail-clone-chi-topaz.vercel.app/)
